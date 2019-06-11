@@ -1,0 +1,4 @@
+[![Build Status](https://www.travis-ci.org/sebastiancotta/micro-service-java-8.svg?branch=master)](https://www.travis-ci.org/sebastiancotta/micro-service-java-8)
+language: java
+jdk:
+  - oraclejdk8
